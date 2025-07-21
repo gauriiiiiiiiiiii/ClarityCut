@@ -150,8 +150,6 @@ Pull requests and suggestions are welcome! For major changes, please open an iss
 
 ---
 
-## 📜 License
-
-MIT
+**Made with ❤️ for curious minds who crave clarity**
 
 
